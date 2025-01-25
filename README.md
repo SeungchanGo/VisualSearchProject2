@@ -9,5 +9,5 @@ I sought to overcome the previous project's limitation of missing bottom-up info
 The project used 2,880 TL task images, with conditions including target-nontarget similarity (Low vs High) and color singleton distractor (Absent vs Present).
 
 
-<img width="460" alt="image" src="https://github.com/user-attachments/assets/deca261c-3f4b-4913-95db-fd08dde80a28" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/deca261c-3f4b-4913-95db-fd08dde80a28" />
 
