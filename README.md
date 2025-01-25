@@ -11,11 +11,8 @@ The project used 2,880 TL task images, with conditions including target-nontarge
 
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/c65a2927-643e-4976-9ca9-58ce736b944b" />
-
 Example of images. Target image; Search image; BU atteniton map; TD attention map
 
 <img width="515" alt="image" src="https://github.com/user-attachments/assets/33662ada-e85f-441d-b6c1-0093871231e3" />
-
-
 Example of search processing.
 
