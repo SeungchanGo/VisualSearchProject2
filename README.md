@@ -7,3 +7,7 @@ According to Treisman and Gelade's feature integration theory, when viewing an i
 I sought to overcome the previous project's limitation of missing bottom-up information by leveraging the structural characteristics of CNN models and feature integration theory. Pre-trained CNN filters from ImageNet can effectively detect various image stimulus features. I hypothesized that the model's output would well represent bottom-up information about stimuli. Similar to the previous project, top-down information was obtained through pixel-wise multiplication of target image features and search image bottom-up information. These two attention map informations were combined to predict eye movements using CNN.
 
 The project used 2,880 TL task images, with conditions including target-nontarget similarity (Low vs High) and color singleton distractor (Absent vs Present).
+
+
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/deca261c-3f4b-4913-95db-fd08dde80a28" />
+
