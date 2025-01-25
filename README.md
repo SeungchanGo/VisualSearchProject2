@@ -9,10 +9,9 @@ I sought to overcome the previous project's limitation of missing bottom-up info
 The project used 2,880 TL task images, with conditions including target-nontarget similarity (Low vs High) and color singleton distractor (Absent vs Present).
 
 
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/c65a2927-643e-4976-9ca9-58ce736b944b" /> print(/n)
 Example of images. Target image; Search image; BU atteniton map; TD attention map
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/c65a2927-643e-4976-9ca9-58ce736b944b" />
 
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/46f35543-20c7-4ff2-8524-a3adb57e6c39" /> print(/n)
 Example of search processing.
-<img width="515" alt="image" src="https://github.com/user-attachments/assets/46f35543-20c7-4ff2-8524-a3adb57e6c39" />
-
 
