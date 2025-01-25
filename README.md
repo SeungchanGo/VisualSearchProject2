@@ -13,5 +13,6 @@ Example of images. Target image; Search image; BU atteniton map; TD attention ma
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/c65a2927-643e-4976-9ca9-58ce736b944b" />
 
 Example of search processing.
-<img width="515" alt="image" src="https://github.com/user-attachments/assets/33662ada-e85f-441d-b6c1-0093871231e3" />
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/46f35543-20c7-4ff2-8524-a3adb57e6c39" />
+
 
